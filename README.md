@@ -128,4 +128,4 @@ That's all.
 
 Regards from Ahosan.
 
-Medium: 
+Medium: https://medium.com/@ahosanhabib.974/mysql-enterprise-backup-point-in-time-recovery-c2853dd65a0c
