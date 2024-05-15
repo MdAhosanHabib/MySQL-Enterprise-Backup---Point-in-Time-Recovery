@@ -96,8 +96,11 @@ systemctl start mysqld.service
 ## Recover to a specific time
 
 Full Backup: 11:03 AM
+
 Table Create: 11:05 AM
+
 Table Drop: 11:09 AM
+
 
 Here, we found the MySQL Binlog position from the restore Log.
 
