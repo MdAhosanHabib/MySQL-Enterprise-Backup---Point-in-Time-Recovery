@@ -125,7 +125,6 @@ mysqlbinlog --start-position="553" --stop-position="1757" /mysql/mysql/binlog-bk
 
 That's all.
 
-Regards,
-Ahosan
+Regards from Ahosan.
 
 Medium: 
